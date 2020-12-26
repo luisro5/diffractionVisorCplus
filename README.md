@@ -1,4 +1,4 @@
-# Welcome to Diffraction Visor
+# Welcome to Diffraction Visor C++ Binding
 
 This is the binding to C++ but is not yet finished, (need a suitable GUI). This project is on hold.
 
